@@ -1,0 +1,54 @@
+nohup: ignoring input
+ INFO  Accepting connections at http://localhost:3000
+ HTTP  2/14/2026 5:20:35 AM 10.131.7.1 GET /
+ HTTP  2/14/2026 5:20:35 AM 10.131.7.1 Returned 200 in 39 ms
+ HTTP  2/14/2026 5:20:35 AM 10.131.7.1 GET /assets/index-Di1RUow9.js
+ HTTP  2/14/2026 5:20:35 AM 10.131.7.1 Returned 200 in 11 ms
+ HTTP  2/14/2026 5:20:35 AM 10.131.7.1 GET /assets/index-YsGK3EJS.css
+ HTTP  2/14/2026 5:20:35 AM 10.131.7.1 Returned 200 in 11 ms
+ HTTP  2/14/2026 5:20:35 AM 10.131.7.1 GET /assets/hero_image-BrHO2TCb.png
+ HTTP  2/14/2026 5:20:35 AM 10.131.7.1 GET /assets/kisko-B54mDXu8.png
+ HTTP  2/14/2026 5:20:35 AM 10.131.7.1 Returned 200 in 4 ms
+ HTTP  2/14/2026 5:20:35 AM 10.131.7.1 Returned 200 in 23 ms
+ HTTP  2/14/2026 5:20:37 AM 10.131.7.1 GET /vite.svg
+ HTTP  2/14/2026 5:20:37 AM 10.131.7.1 Returned 200 in 5 ms
+ HTTP  2/14/2026 5:24:57 AM 10.131.7.1 GET /
+ HTTP  2/14/2026 5:24:57 AM 10.131.7.1 Returned 200 in 4 ms
+ HTTP  2/14/2026 5:24:57 AM 10.131.7.1 GET /assets/index-D42UZOXc.js
+ HTTP  2/14/2026 5:24:57 AM 10.131.7.1 Returned 200 in 3 ms
+ HTTP  2/14/2026 5:24:57 AM 10.131.7.1 GET /assets/index-YsGK3EJS.css
+ HTTP  2/14/2026 5:24:57 AM 10.131.7.1 Returned 304 in 26 ms
+ HTTP  2/14/2026 5:24:58 AM 10.131.7.1 GET /assets/hero_image-BrHO2TCb.png
+ HTTP  2/14/2026 5:24:58 AM 10.131.7.1 GET /assets/kisko-B54mDXu8.png
+ HTTP  2/14/2026 5:24:58 AM 10.131.7.1 Returned 304 in 3 ms
+ HTTP  2/14/2026 5:24:58 AM 10.131.7.1 Returned 304 in 14 ms
+ HTTP  2/14/2026 5:25:03 AM 10.131.7.1 GET /
+ HTTP  2/14/2026 5:25:03 AM 10.131.7.1 Returned 200 in 2 ms
+ HTTP  2/14/2026 5:25:03 AM 10.131.7.1 GET /assets/index-D42UZOXc.js
+ HTTP  2/14/2026 5:25:03 AM 10.131.7.1 Returned 304 in 3 ms
+ HTTP  2/14/2026 5:25:03 AM 10.131.7.1 GET /assets/index-YsGK3EJS.css
+ HTTP  2/14/2026 5:25:03 AM 10.131.7.1 Returned 304 in 3 ms
+ HTTP  2/14/2026 5:25:03 AM 10.131.7.1 GET /assets/kisko-B54mDXu8.png
+ HTTP  2/14/2026 5:25:03 AM 10.131.7.1 GET /assets/hero_image-BrHO2TCb.png
+ HTTP  2/14/2026 5:25:03 AM 10.131.7.1 Returned 304 in 7 ms
+ HTTP  2/14/2026 5:25:03 AM 10.131.7.1 Returned 304 in 9 ms
+ HTTP  2/14/2026 5:29:24 AM 10.131.7.1 GET /
+ HTTP  2/14/2026 5:29:24 AM 10.131.7.1 Returned 200 in 3 ms
+ HTTP  2/14/2026 5:29:24 AM 10.131.7.1 GET /assets/index-D42UZOXc.js
+ HTTP  2/14/2026 5:29:24 AM 10.131.7.1 Returned 304 in 2 ms
+ HTTP  2/14/2026 5:29:24 AM 10.131.7.1 GET /assets/index-YsGK3EJS.css
+ HTTP  2/14/2026 5:29:24 AM 10.131.7.1 Returned 304 in 0 ms
+ HTTP  2/14/2026 5:29:25 AM 10.131.7.1 GET /assets/kisko-B54mDXu8.png
+ HTTP  2/14/2026 5:29:25 AM 10.131.7.1 Returned 304 in 2 ms
+ HTTP  2/14/2026 5:29:25 AM 10.131.7.1 GET /assets/hero_image-BrHO2TCb.png
+ HTTP  2/14/2026 5:29:25 AM 10.131.7.1 Returned 304 in 3 ms
+ HTTP  2/14/2026 5:30:23 AM 10.131.7.1 GET /
+ HTTP  2/14/2026 5:30:23 AM 10.131.7.1 Returned 200 in 3 ms
+ HTTP  2/14/2026 5:30:23 AM 10.131.7.1 GET /assets/index-D42UZOXc.js
+ HTTP  2/14/2026 5:30:23 AM 10.131.7.1 GET /assets/index-YsGK3EJS.css
+ HTTP  2/14/2026 5:30:23 AM 10.131.7.1 Returned 304 in 2 ms
+ HTTP  2/14/2026 5:30:23 AM 10.131.7.1 Returned 304 in 1 ms
+ HTTP  2/14/2026 5:30:23 AM 10.131.7.1 GET /assets/hero_image-BrHO2TCb.png
+ HTTP  2/14/2026 5:30:23 AM 10.131.7.1 Returned 304 in 1 ms
+ HTTP  2/14/2026 5:30:23 AM 10.131.7.1 GET /assets/kisko-B54mDXu8.png
+ HTTP  2/14/2026 5:30:23 AM 10.131.7.1 Returned 304 in 2 ms

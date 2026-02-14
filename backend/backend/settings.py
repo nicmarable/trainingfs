@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-h$!icbgf89x=h&em1dg^nc+e9$m0*7)i#z*cxhbxqokdjfp43z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
@@ -54,6 +54,7 @@ MIDDLEWARE = [
 ]
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
+"https://student4.rivanacad.com",
 ]
 
 ROOT_URLCONF = 'backend.urls'
@@ -114,6 +115,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # https://docs.djangoproject.com/en/6.0/topics/i18n/
 
 LANGUAGE_CODE = 'en-us'
+STATIC_ROOT = BASE_DIR / 'staticfiles'
 STATIC_URL ='/static/'
 MEDIA_URL ='/images/'
 MEDIA_ROOT = 'static/images'
